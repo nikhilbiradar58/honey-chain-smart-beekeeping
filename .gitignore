@@ -1,0 +1,5 @@
+.env
+honey_chain.db
+honey_chain_test.db
+__pycache__/
+*.pyc
